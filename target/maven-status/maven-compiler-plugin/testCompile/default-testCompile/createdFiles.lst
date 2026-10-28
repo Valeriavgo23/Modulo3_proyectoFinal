@@ -1,0 +1,3 @@
+com\veterinary_clinic\Exception\ClinicFullException.class
+com\veterinary_clinic\Exception\InvalidDataException.class
+com\veterinary_clinic\Exception\PatientNotFoundException.class
